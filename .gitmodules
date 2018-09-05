@@ -1,0 +1,11 @@
+[submodule "golos"]
+	path = golos
+	url = git@github.com:PreICO/golos.git
+	branch = latest
+[submodule "tolstoy"]
+	path = tolstoy
+	url = git@github.com:PreICO/tolstoy.git
+	branch = dev
+[submodule "imagehoster"]
+	path = imagehoster
+	url = git@github.com:PreICO/imagehoster.git
